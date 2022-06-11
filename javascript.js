@@ -57,3 +57,14 @@ document.write("El area del circulo es: " + areaCirculo)
 
 console.groupEnd();
 
+
+function calularPerimetroCuadrado(){
+    const input = document.getElementById("texto1");
+    const value = input.value;
+
+    const perimetro = calularPerimetroCuadrado
+}
+
+function calularAreaCuadrado(){
+
+}
