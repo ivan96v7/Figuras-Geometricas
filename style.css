@@ -2,4 +2,40 @@
 
 body{
     background-color: aqua;
+    padding:0px;
+    margin: 0px;
+}
+
+header{
+    border: 1px solid red;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+section{
+    border: 1px solid red;
+}
+
+fieldset{
+    border:none;
+    background-color: brown;
+}
+
+legend{
+    text-align: center;
+}
+
+#texto1{
+    width:50px;
+}
+
+button{
+    width: 70px;
+    height: 50px;
+}
+
+form{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
